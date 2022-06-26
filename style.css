@@ -139,12 +139,12 @@
  }
  #concerts {
      column-count: 4;
-     column-width: 200px;
+     column-width: 180px;
      background-color: #212121;
      padding-top:20px ;
  }
  .card {
-     width: 260px;
+     width: 200px;
      border: none;
      border-radius: 4px;
      background-color: #414040;
